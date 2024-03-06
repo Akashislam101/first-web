@@ -1,0 +1,52 @@
+.index {
+    display: flex !important;
+    justify-content: end;
+}
+
+
+img.logo-img {
+    width: 150px;
+}
+
+.banner-img {
+    width: 700px;
+}
+
+.banner-h2 {
+    font-size: 44px;
+    font-weight: bold;
+    padding-bottom: 15px;
+}
+
+.about-link {
+    font-size: 25px;
+    color: #FFC91C;
+
+}
+
+img.card-img-top.phone-card {
+    width: 300px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+p.card-text.text-center {
+    width: 315px;
+    padding: 5px 0;
+}
+
+a.text-center.btn.btn-dark {
+    margin-left: 109px;
+}
+
+.underline {
+    width: 140px;
+    height: 7px;
+    background-color: #FFC91C;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+img.img-bag {
+    width: 150px;
+}
